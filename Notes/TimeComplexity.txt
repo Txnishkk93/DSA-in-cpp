@@ -1,0 +1,26 @@
+what is time complexity??
+
+you'll never call time complexity, as your code time taken in your local machine...because processing power is depend on the machine configuration...that's why it is not dependent..
+
+Main definition-->
+Rate at which the time taken increases wrt to input size..
+we calculate a time in terms of bigOn notation etc..O()->inside () you wrote time taken../also the how many steps taking..
+
+-take worst case senarios.
+-avoid constansts.
+-avoid lower values.
+
+there are three types of cases--
+    1- Best case--When the program takes least amount of time.[omega]--lowest bond
+    2- Average case--Theta 0.--average complexity
+    3- Worst case--[Big-oh(O)]--upper bond.
+
+
+
+what is space complexity??
+it is a axuiliary space +  input space
+
+and what is axuiliary space --the space were you take to solve the problem... like when you store an int a,b and after that int c=a+b..so the c is axuiliary space...
+and whayt is input space -- the space were you take to store a problem...
+
+memory space ,we will use big o notaton again
