@@ -90,6 +90,15 @@ void linear(){
     
 }
 
+void sum(){
+    int arr[]={4,5,6,7,8,3,9};
+    int size=7;
+
+    for(int i=0;i<size;i++){
+        int sum=arr[i]*arr[i];
+    }
+    cout<<sum<<endl;
+}
  
 int main()
 {
