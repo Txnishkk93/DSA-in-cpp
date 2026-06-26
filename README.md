@@ -4,13 +4,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
