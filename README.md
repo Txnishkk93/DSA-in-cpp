@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0018-4sum) |
+| [0142-linked-list-cycle-ii](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0142-linked-list-cycle-ii](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0904-fruit-into-baskets](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
