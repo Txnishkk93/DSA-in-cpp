@@ -3,6 +3,7 @@ public:
     bool isPalindrome(ListNode* head) {
         if (!head || !head->next) return true;
 
+ 
         ListNode* slow = head;
         ListNode* fast = head;
         while (fast->next != nullptr && fast->next->next != nullptr) {
@@ -23,6 +24,8 @@ public:
             p1 = p1->next;
             p2 = p2->next;
         }
+
+        
 
         return result;
     }
