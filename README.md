@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0142-linked-list-cycle-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0234-palindrome-linked-list) |
