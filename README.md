@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0457-circular-array-loop) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
