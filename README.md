@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0457-circular-array-loop) |
+| [0724-find-pivot-index](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0724-find-pivot-index) |
 ## String
 |  |
 | ------- |
