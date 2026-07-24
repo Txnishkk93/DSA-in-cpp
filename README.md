@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
