@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -143,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
