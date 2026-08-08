@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -156,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
