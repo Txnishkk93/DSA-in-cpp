@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0904-fruit-into-baskets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
