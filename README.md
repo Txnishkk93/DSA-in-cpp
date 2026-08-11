@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/1189-maximum-number-of-balloons) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Txnishkk93/DSA-in-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
