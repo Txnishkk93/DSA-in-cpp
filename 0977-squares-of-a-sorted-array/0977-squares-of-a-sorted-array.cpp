@@ -7,14 +7,14 @@ public:
         int pos = n - 1;
         vector<int> res(n);
         while (left <= right) {
-            int leftsq = nums[left] * nums[left];
-            int rightsq = nums[right] * nums[right];
+            int leftSquare = nums[left] * nums[left];
+            int rightSquare = nums[right] * nums[right];
 
-            if (leftsq > rightsq) {
-                res[pos] = leftsq;
+            if (leftSquare > rightSquare) {
+                res[pos]=leftSquare;
                 left++;
-            } else {
-                res[pos] = rightsq;
+            }else{
+                res[pos]=rightSquare;
                 right--;
             }
             pos--;
@@ -22,3 +22,4 @@ public:
         return res;
     }
 };
+
